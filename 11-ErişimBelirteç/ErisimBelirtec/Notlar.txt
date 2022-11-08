@@ -1,0 +1,9 @@
+Ýki seviyede Access Modifier olur.
+1) Class seviyesi
+	a)Internal veya boþ olursa kendi kapsama alanýnda kullanýlýr. Baþka katmanda kullanýlamaz.
+	b)Public olursa her yerde kullanýlýr.
+2) Member seviyesi
+	a)Public olursa her yerde kullanýlabilir.
+	b)Private olursa direkt eriþim olmaz. Get set metotlarý yazmak gerekir. Miras aldýðý Class da kullanýlamaz.
+	c)Protected olursa direkt eriþim olmaz. Get set metotlarý yazmak gerekir. Miras aldýðý Class da kullanýlabilir.
+	d)Protected Internal hem protected hem internal.

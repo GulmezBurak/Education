@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\bin\Debug\net6.0\kacParamVarSadelestirilmis.exe
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\bin\Debug\net6.0\kacParamVarSadelestirilmis.deps.json
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\bin\Debug\net6.0\kacParamVarSadelestirilmis.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\bin\Debug\net6.0\kacParamVarSadelestirilmis.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\bin\Debug\net6.0\kacParamVarSadelestirilmis.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\refint\kacParamVarSadelestirilmis.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\kacParamVarSadelestirilmis.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\kacParamVarSadelestirilmis\kacParamVarSadelestirilmis\obj\Debug\net6.0\ref\kacParamVarSadelestirilmis.dll

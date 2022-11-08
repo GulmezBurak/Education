@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\bin\Debug\net6.0\OzelDegiskenler.exe
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\bin\Debug\net6.0\OzelDegiskenler.deps.json
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\bin\Debug\net6.0\OzelDegiskenler.runtimeconfig.json
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\bin\Debug\net6.0\OzelDegiskenler.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\bin\Debug\net6.0\OzelDegiskenler.pdb
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.AssemblyInfo.cs
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\refint\OzelDegiskenler.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.pdb
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\OzelDegiskenler.genruntimeconfig.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\OzelDegiskenler\obj\Debug\net6.0\ref\OzelDegiskenler.dll

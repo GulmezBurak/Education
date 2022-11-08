@@ -1,0 +1,12 @@
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\bin\Debug\net6.0\SahteData.deps.json
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\bin\Debug\net6.0\SahteData.dll
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\bin\Debug\net6.0\SahteData.pdb
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.AssemblyInfo.cs
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.dll
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\refint\SahteData.dll
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\SahteData.pdb
+C:\ERP301AKSAM\9-DLLs\SahteData\SahteData\SahteData\obj\Debug\net6.0\ref\SahteData.dll

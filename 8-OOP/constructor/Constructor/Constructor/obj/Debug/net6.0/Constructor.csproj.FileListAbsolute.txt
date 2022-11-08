@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\bin\Debug\net6.0\Constructor.exe
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\bin\Debug\net6.0\Constructor.deps.json
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\bin\Debug\net6.0\Constructor.dll
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\bin\Debug\net6.0\Constructor.pdb
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.dll
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.pdb
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\constructor\Constructor\Constructor\obj\Debug\net6.0\ref\Constructor.dll

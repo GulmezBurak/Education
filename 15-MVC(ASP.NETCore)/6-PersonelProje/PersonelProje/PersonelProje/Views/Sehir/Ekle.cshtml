@@ -1,0 +1,23 @@
+﻿@model PersonelProje.Data.Sehir
+@{
+    ViewData["Title"] = "Ekle";
+}
+<div class="row">
+    <div class="col-md-5">
+        <h1>Şehir Ekle</h1>
+        <hr />
+        <form method="post">
+            @*method post olduğunda submit dediği an isimleri okur.*@
+            <div>
+                <label>Id</label>
+                <input class="form-control" type="text" value="@Model.Id" name="Id" />
+            </div>
+            <div>
+                <label>Ad</label>
+                <input class="form-control" type="text" value="@Model.SehirAd" name="SehirAd" />
+            </div>
+            <input class="btn btn-primary" type="submit" value="Ekle" />
+        </form>
+    </div>
+</div>
+

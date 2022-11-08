@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\bin\Debug\net6.0\AnaProgram.exe
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\bin\Debug\net6.0\AnaProgram.deps.json
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\bin\Debug\net6.0\AnaProgram.runtimeconfig.json
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\bin\Debug\net6.0\AnaProgram.dll
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\bin\Debug\net6.0\AnaProgram.pdb
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.AssemblyInfo.cs
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.dll
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\refint\AnaProgram.dll
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.pdb
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\AnaProgram.genruntimeconfig.cache
+C:\ERP301AKSAM\11-ErişimBelirteç\ErisimBelirtec\AnaProgram\obj\Debug\net6.0\ref\AnaProgram.dll

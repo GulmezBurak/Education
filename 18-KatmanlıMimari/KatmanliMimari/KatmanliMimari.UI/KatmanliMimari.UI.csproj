@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KatmanliMimari.Core\KatmanliMimari.Core.csproj" />
+    <ProjectReference Include="..\KatmanliMimari.Dl\KatmanliMimari.Dl.csproj" />
+    <ProjectReference Include="..\KatmanliMimari.DTO\KatmanliMimari.DTO.csproj" />
+    <ProjectReference Include="..\KatmanliMimari.Ent\KatmanliMimari.Ent.csproj" />
+    <ProjectReference Include="..\KatmanliMimari.Rep\KatmanliMimari.Rep.csproj" />
+    <ProjectReference Include="..\KatmanliMimari.Uow\KatmanliMimari.Uow.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\bin\Debug\ogrenciProje.exe.config
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\bin\Debug\ogrenciProje.exe
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\bin\Debug\ogrenciProje.pdb
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\bin\Debug\FakeData.dll
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\bin\Debug\FakeData.pdb
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.csproj.SuggestedBindingRedirects.cache
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.csproj.CopyComplete
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.exe
+C:\ERP301AKSAM\8-OOP\ogrenciProje\ogrenciProje\obj\Debug\ogrenciProje.pdb

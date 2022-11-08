@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\bin\Debug\net6.0\extensionMethod.exe
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\bin\Debug\net6.0\extensionMethod.deps.json
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\bin\Debug\net6.0\extensionMethod.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\bin\Debug\net6.0\extensionMethod.dll
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\bin\Debug\net6.0\extensionMethod.pdb
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.dll
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\refint\extensionMethod.dll
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.pdb
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\extensionMethod.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\extensionMethod\extensionMethod\extensionMethod\obj\Debug\net6.0\ref\extensionMethod.dll

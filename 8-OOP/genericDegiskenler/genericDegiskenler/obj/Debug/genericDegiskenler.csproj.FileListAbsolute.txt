@@ -1,0 +1,8 @@
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\bin\Debug\genericDegiskenler.exe.config
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\bin\Debug\genericDegiskenler.exe
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\bin\Debug\genericDegiskenler.pdb
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\obj\Debug\genericDegiskenler.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\obj\Debug\genericDegiskenler.csproj.SuggestedBindingRedirects.cache
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\obj\Debug\genericDegiskenler.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\obj\Debug\genericDegiskenler.exe
+C:\ERP301AKSAM\8-OOP\genericDegiskenler\genericDegiskenler\obj\Debug\genericDegiskenler.pdb

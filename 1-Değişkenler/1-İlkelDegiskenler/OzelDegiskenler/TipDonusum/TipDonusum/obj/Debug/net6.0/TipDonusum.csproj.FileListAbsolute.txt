@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\bin\Debug\net6.0\TipDonusum.exe
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\bin\Debug\net6.0\TipDonusum.deps.json
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\bin\Debug\net6.0\TipDonusum.runtimeconfig.json
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\bin\Debug\net6.0\TipDonusum.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\bin\Debug\net6.0\TipDonusum.pdb
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.AssemblyInfo.cs
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\refint\TipDonusum.dll
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.pdb
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\TipDonusum.genruntimeconfig.cache
+C:\ERP301AKSAM\1-Değişkenler\1-İlkelDegiskenler\OzelDegiskenler\TipDonusum\TipDonusum\obj\Debug\net6.0\ref\TipDonusum.dll

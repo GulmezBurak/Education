@@ -1,0 +1,35 @@
+﻿@model List<PersonelProje.Data.Sehir>
+@{
+    ViewData["Title"] = "Liste";
+}
+
+<h1>Şehir Listesi</h1>
+<div class="row">
+    <div class="col-md-7">
+        <a class="btn btn-primary" href="/Sehir/Ekle">Yeni Giriş</a>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Adı</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.SehirAd</td>
+                        <td><a class="btn btn-success" href="/Sehir/Guncel/@item.Id">Güncelle</a></td>
+                        <td><a class="btn btn-danger" href="/Sehir/Sil/@item.Id">Sil</a></td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+

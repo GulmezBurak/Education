@@ -1,0 +1,29 @@
+.team{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    margin: 20px;
+    display: inline-block;
+}
+.team-fb{
+    color: blue;
+}
+.team-gs{
+    color: red;
+}
+.btn{
+    border-radius: 5px;
+    height: 25px;
+    border-style: solid;
+    border-width: 3px;
+}
+.btn-fb{
+    background-color: blue;
+    color: yellow;
+    border-color: yellow;
+}
+.btn-gs{
+    background-color: red;
+    color: yellow;
+    border-color: yellow;
+}
+

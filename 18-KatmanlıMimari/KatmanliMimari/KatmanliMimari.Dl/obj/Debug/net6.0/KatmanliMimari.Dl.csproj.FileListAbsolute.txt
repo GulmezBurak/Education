@@ -1,0 +1,17 @@
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Dl.deps.json
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Dl.runtimeconfig.json
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Dl.dll
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Dl.pdb
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Ent.dll
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\bin\Debug\net6.0\KatmanliMimari.Ent.pdb
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.AssemblyInfo.cs
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.csproj.CopyComplete
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.dll
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\refint\KatmanliMimari.Dl.dll
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.pdb
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\KatmanliMimari.Dl.genruntimeconfig.cache
+C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Dl\obj\Debug\net6.0\ref\KatmanliMimari.Dl.dll

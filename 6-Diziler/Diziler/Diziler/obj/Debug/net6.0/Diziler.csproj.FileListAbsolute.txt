@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\bin\Debug\net6.0\Diziler.exe
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\bin\Debug\net6.0\Diziler.deps.json
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\bin\Debug\net6.0\Diziler.runtimeconfig.json
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\bin\Debug\net6.0\Diziler.dll
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\bin\Debug\net6.0\Diziler.pdb
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfo.cs
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.dll
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\refint\Diziler.dll
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.pdb
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\Diziler.genruntimeconfig.cache
+C:\ERP301AKSAM\6-Diziler\Diziler\Diziler\obj\Debug\net6.0\ref\Diziler.dll

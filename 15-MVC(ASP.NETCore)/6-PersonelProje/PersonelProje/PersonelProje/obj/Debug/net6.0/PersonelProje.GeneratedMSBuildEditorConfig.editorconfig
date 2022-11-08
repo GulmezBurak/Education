@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PersonelProje
+build_property.RootNamespace = PersonelProje
+build_property.ProjectDir = C:\ERP301AKSAM\15-MVC(ASP.NETCore)\6-PersonelProje\PersonelProje\PersonelProje\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ERP301AKSAM\15-MVC(ASP.NETCore)\6-PersonelProje\PersonelProje\PersonelProje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Personel/Genel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcR2VuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Personel/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Personel/Guncel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcR3VuY2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Personel/Liste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcTGlzdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Personel/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Sehir/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VoaXJcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Sehir/Guncel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VoaXJcR3VuY2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Sehir/Liste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VoaXJcTGlzdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Sehir/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VoaXJcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Ulke/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Ulke/Guncel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxHdW5jZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Ulke/Liste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxMaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Ulke/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERP301AKSAM/15-MVC(ASP.NETCore)/6-PersonelProje/PersonelProje/PersonelProje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4k9rnq0n69

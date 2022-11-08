@@ -1,0 +1,12 @@
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\bin\Debug\net6.0\Hesaplama.deps.json
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\bin\Debug\net6.0\Hesaplama.dll
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\bin\Debug\net6.0\Hesaplama.pdb
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.AssemblyInfo.cs
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.dll
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\refint\Hesaplama.dll
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\Hesaplama.pdb
+C:\ERP301AKSAM\9-DLLs\Hesaplama\Hesaplama\obj\Debug\net6.0\ref\Hesaplama.dll

@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\bin\Debug\net6.0\TrafikLambası.exe
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\bin\Debug\net6.0\TrafikLambası.deps.json
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\bin\Debug\net6.0\TrafikLambası.runtimeconfig.json
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\bin\Debug\net6.0\TrafikLambası.dll
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\bin\Debug\net6.0\TrafikLambası.pdb
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.AssemblyInfo.cs
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.dll
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\refint\TrafikLambası.dll
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.pdb
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\TrafikLambası.genruntimeconfig.cache
+C:\ERP301AKSAM\3-KararYapıları\TrafikLambası\TrafikLambası\TrafikLambası\obj\Debug\net6.0\ref\TrafikLambası.dll

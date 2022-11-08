@@ -1,0 +1,39 @@
+﻿@model IleriRepository.Models.CountyModel
+
+
+
+<h4>@Model.Head</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="County.CountyName" class="control-label"></label>
+                <input asp-for="County.CountyName" class="form-control" />
+                <span asp-validation-for="County.CountyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Cities</label>
+                <select class="form-control" asp-for="County.CityId">
+                    @foreach (var item in Model.Cities)
+                    {
+                        <option value="@item.Id">@item.CityName</option>
+                    }
+                </select>
+            </div>
+            <input readonly type="hidden" asp-for="County.Id" />
+            <div class="form-group">
+                <input type="submit" value="@Model.BtnText" class="@Model.BtnCls" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-warning" asp-action="List">Cancel</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

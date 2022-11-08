@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CXZc5FHoQTRJj2j+wugQEqJRV+LfjLjXShTSvuBs1po=",
+  "Source": "MvcWithBootstrap",
+  "BasePath": "_content/MvcWithBootstrap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\bin\Debug\ilkelOOP.exe.config
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\bin\Debug\ilkelOOP.exe
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\bin\Debug\ilkelOOP.pdb
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\obj\Debug\ilkelOOP.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\obj\Debug\ilkelOOP.csproj.SuggestedBindingRedirects.cache
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\obj\Debug\ilkelOOP.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\obj\Debug\ilkelOOP.exe
+C:\ERP301AKSAM\8-OOP\NedenOOP\ilkelOOP\ilkelOOP\obj\Debug\ilkelOOP.pdb

@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\bin\Debug\net6.0\islem.exe
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\bin\Debug\net6.0\islem.deps.json
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\bin\Debug\net6.0\islem.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\bin\Debug\net6.0\islem.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\bin\Debug\net6.0\islem.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\refint\islem.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\islem.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\returnMethodlar\islem\islem\obj\Debug\net6.0\ref\islem.dll

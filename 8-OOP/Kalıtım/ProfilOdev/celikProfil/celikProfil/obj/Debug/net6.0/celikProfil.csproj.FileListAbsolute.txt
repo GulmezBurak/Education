@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\bin\Debug\net6.0\celikProfil.exe
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\bin\Debug\net6.0\celikProfil.deps.json
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\bin\Debug\net6.0\celikProfil.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\bin\Debug\net6.0\celikProfil.dll
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\bin\Debug\net6.0\celikProfil.pdb
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.dll
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\refint\celikProfil.dll
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.pdb
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\celikProfil.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\Kalıtım\ProfilOdev\celikProfil\celikProfil\obj\Debug\net6.0\ref\celikProfil.dll

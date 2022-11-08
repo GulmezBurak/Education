@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\bin\Debug\net6.0\Overload.exe
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\bin\Debug\net6.0\Overload.deps.json
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\bin\Debug\net6.0\Overload.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\bin\Debug\net6.0\Overload.dll
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\bin\Debug\net6.0\Overload.pdb
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.dll
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\refint\Overload.dll
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.pdb
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\Overload.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\overload\Overload\Overload\obj\Debug\net6.0\ref\Overload.dll

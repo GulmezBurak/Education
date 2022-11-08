@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\bin\Debug\net6.0\kacParamVar.exe
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\bin\Debug\net6.0\kacParamVar.deps.json
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\bin\Debug\net6.0\kacParamVar.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\bin\Debug\net6.0\kacParamVar.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\bin\Debug\net6.0\kacParamVar.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\refint\kacParamVar.dll
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.pdb
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\kacParamVar.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\Methodlar\VoidMethodlar\kacParamVar\kacParamVar\obj\Debug\net6.0\ref\kacParamVar.dll

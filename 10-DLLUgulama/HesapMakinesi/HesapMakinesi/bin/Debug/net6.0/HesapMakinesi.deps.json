@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HesapMakinesi/1.0.0": {
+        "dependencies": {
+          "Hesaplama": "1.0.0.0"
+        },
+        "runtime": {
+          "HesapMakinesi.dll": {}
+        }
+      },
+      "Hesaplama/1.0.0.0": {
+        "runtime": {
+          "Hesaplama.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HesapMakinesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesaplama/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\bin\Debug\net6.0\kapsulleme.exe
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\bin\Debug\net6.0\kapsulleme.deps.json
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\bin\Debug\net6.0\kapsulleme.runtimeconfig.json
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\bin\Debug\net6.0\kapsulleme.dll
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\bin\Debug\net6.0\kapsulleme.pdb
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.csproj.AssemblyReference.cache
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.AssemblyInfoInputs.cache
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.AssemblyInfo.cs
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.csproj.CoreCompileInputs.cache
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.dll
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\refint\kapsulleme.dll
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.pdb
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\kapsulleme.genruntimeconfig.cache
+C:\ERP301AKSAM\8-OOP\kapsülleme\kapsulleme\kapsulleme\obj\Debug\net6.0\ref\kapsulleme.dll

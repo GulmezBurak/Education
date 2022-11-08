@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamikVeStatikClass", "DinamikVeStatikClass\DinamikVeStatikClass.csproj", "{EBF3C6ED-8E0C-424D-BF13-5FF371C6A43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF3C6ED-8E0C-424D-BF13-5FF371C6A43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF3C6ED-8E0C-424D-BF13-5FF371C6A43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF3C6ED-8E0C-424D-BF13-5FF371C6A43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF3C6ED-8E0C-424D-BF13-5FF371C6A43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EBA7596-4894-4326-A53F-F0DF8C5D8386}
+	EndGlobalSection
+EndGlobal
